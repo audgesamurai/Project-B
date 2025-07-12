@@ -1,3 +1,5 @@
+// Tester: Audrey Tapia - I have tested this program and verify it works as expected
+
 #include <iostream>
 using namespace std;
 
